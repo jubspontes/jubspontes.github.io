@@ -5,3 +5,4 @@ Atualmente trabalho com :
 - C++.
 - Java.
 - C.
+![raposa girando](https://giphy.com/gifs/fox-spin-deerfox-r8ngQvpMkeWpKkMdvI)
